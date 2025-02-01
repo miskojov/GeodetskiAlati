@@ -39,4 +39,8 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Storelibs/*.zip
+.DS_Store
+
+### Ignorisanje ZIP fajlova ###
+libs/*.zip
+
